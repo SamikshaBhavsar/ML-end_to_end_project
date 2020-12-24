@@ -5,6 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Car_Price_prediction</title>
     </head>
+    
+<!-- Adding styles like colour, height, width, border to our html page -->
 <style>
 
 
@@ -72,6 +74,7 @@ body {
 <h1>Car Price Prediction</h1>
 
 <div>
+ <!-- Html form which will get all the values from user -->
  <form action="{{ url_for('predict')}}" method="post" style="background-color:#E6E6FA">
 
 <label for="Year">Year of Purchase</label><br>
@@ -80,6 +83,8 @@ body {
 <input type="text" id="Present_Price" name="Present_Price" placeholder="3.4" required="required"><br>
 <label for="Kms_Driven">Kilometers Drived</label><br>
 <input type="text" id="Kms_Driven" name="Kms_Driven" placeholder="24000" required="required"><br>
+     
+<!-- drop down options are provided for the categorical features -->
 <label for="Owner">No. of owners</label><br>
 <select id="owner" name="Owner">
       <option value="0">0</option>
@@ -101,12 +106,14 @@ body {
     <select id="Transmission_Mannual" name="Transmission_Mannual" required="required">
       <option value="mannual car">mannual car</option>
       <option value="automatic car">automatic car</option>
-     </select> <br>           
-           
+     </select> <br>
+     
+<!-- submit button -->           
 <input type="submit" value="Calculate Selling Price">
 </form>
 </div>
-
+    
+<!-- the predicted text -->
 <h3>{{ prediction_text }}</h3>
 
 </body>
