@@ -13,7 +13,7 @@ How can I run this project in my local server?
 <li>Run our main file by typing the command - python app.py, you will notice the local server address displayed on the screen.</li>
 <li>Copy paste this local server address in the browser. You will notice the project running.</li><br><br>
 What to do if the .ipynb file does not open in github due to some error?<br>
-Click on this [google colab link](https://colab.research.google.com/drive/1g4lPqZluwLsmqb4xFMexr_cqaZ9hijfX?usp=sharing), I have uploaded the same notebook here also.<br><br>
+Click on this [google colab link](https://colab.research.google.com/drive/1g4lPqZluwLsmqb4xFMexr_cqaZ9hijfX?usp=sharing).I have uploaded the same notebook here also.<br><br>
 How can I read the documentation for this project?<br>
 Documentation will be uploaded soon.<br><br>
 
