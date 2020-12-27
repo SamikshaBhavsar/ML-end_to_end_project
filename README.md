@@ -15,6 +15,6 @@ How can I run this project in my local server?
 What to do if the .ipynb file does not open in github due to some error?<br>
 Click on this https://colab.research.google.com/drive/1g4lPqZluwLsmqb4xFMexr_cqaZ9hijfX?usp=sharing .I have uploaded the same notebook here also.<br><br>
 How can I read the documentation for this project?<br>
-Documentation will be uploaded soon.<br><br>
+Documentation can be found here - https://datamahadev.com/deploying-machine-learning-model-using-heroku/.<br><br>
 
 
