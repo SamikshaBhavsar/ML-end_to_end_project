@@ -1,4 +1,4 @@
-# ML-end_to_end_project
+# End-to-end machine learning project with deployment
 This repository contains the complete end-to-end machine learning project. <br>
 To get this code in to your github account, feel free to fork this repository. <br><br>
 How to fork the repository ? <br>
