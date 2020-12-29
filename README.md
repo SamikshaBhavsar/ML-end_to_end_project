@@ -1,5 +1,6 @@
 # End-to-end machine learning project with deployment
 This repository contains the complete end-to-end machine learning project. <br>
+#### Star the repository, if you find it useful.
 To get this code in to your github account, feel free to fork this repository. <br><br>
 How to fork the repository ? <br>
 Click on the "Fork" button in the top right section of this page. This will let you create clone of my repository into your github account. You can then make changes to it as per your choice. <br><br>
